@@ -45,6 +45,6 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: localhost:25565
+    motd: '&1Boston Grammar School Minecraft Server'
+    address: 185.36.205.4:26009
     restricted: false
